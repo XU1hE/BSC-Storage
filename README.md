@@ -1,7 +1,7 @@
 # BSC Storage: Hybrid Battery and Super-Capacitor Storage System for Wind Power Grid Stability
 
 ## Topology of Hybrid B-SC Storage System
-In the proposed system, the battery is used to stabilize low-frequency power fluctuations, while the supercapacitor handles high-frequency changes.
+
 ![image](https://github.com/user-attachments/assets/b85c98bd-954a-4c58-870f-9424702516af) 
 
 ## Simulation & Results
