@@ -1,7 +1,7 @@
 # BSC Storage: Hybrid Battery and Super-Capacitor Storage System for Wind Power Grid Stability
 
 ## Overview
-This project presents the design and modeling of a **hybrid battery-supercapacitor (B-SC) storage system** aimed at stabilizing wind power grid fluctuations. The system leverages the complementary characteristics of batteries and supercapacitors to enhance performance and reliability. It is a course project for 
+This project presents the design and modeling of a **hybrid battery-supercapacitor (B-SC) storage system** aimed at stabilizing wind power grid fluctuations. The system leverages the complementary characteristics of batteries and supercapacitors to enhance performance and reliability. It is a course project for [UoG14002] CONTROL
 
 ## Features
 - **Supercapacitor Selection & Modeling**: Uses MATLAB/Simulink to model supercapacitors, focusing on high-power storage, specific energy, and power requirements.
@@ -31,7 +31,7 @@ The hybrid system consists of:
 ### Running the Simulation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/hybrid-bsc-storage.git
+   git clone [https://github.com/XU1hE/BSC-Storage.git]
    ```
 2. Open MATLAB and navigate to the project directory.
 3. Run the Simulink model file (`hybrid_bsc_model.slx`).
@@ -51,7 +51,12 @@ The hybrid system consists of:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any questions or collaboration opportunities, feel free to reach out via [your email] or open an issue in the repository.
+
+If you have any questions, suggestions, or feedback regarding this project, feel free to reach out:
+
+- **Name**:   Xu Y.
+- **Email**:  yihe8552@gmail.com
+- **GitHub**: [XU1hE's GitHub Profile](https://github.com/XU1hE)
 
 ## Topology of Hybrid B-SC Storage System
 
