@@ -62,12 +62,12 @@ I appreciate your interest in this project and welcome collaboration opportuniti
 
 ## Topology of Hybrid B-SC Storage System
 
-![image](https://github.com/user-attachments/assets/b85c98bd-954a-4c58-870f-9424702516af) 
+![Screenshot 2025-02-18 101224](https://github.com/user-attachments/assets/0d0e77c4-78da-4f49-b170-25345d1cedb6)
 
 ## Simulation & Results
 ![Screenshot 2025-02-18 101254](https://github.com/user-attachments/assets/28580bb3-af9d-43d7-b542-a5a3a346ed20)
+
+
 ![Screenshot 2025-02-18 101239](https://github.com/user-attachments/assets/28c88ca2-c0c8-4bcb-8f6b-650c8888a095)
-![image](https://github.com/user-attachments/assets/50176fec-c56f-4b94-9f32-557fefe0ee6e)
-![image](https://github.com/user-attachments/assets/6ec057d8-430d-48d9-868e-9da6fbf1066f)
-![image](https://github.com/user-attachments/assets/064dd8c8-d1ba-46a9-a22c-662d0291335e)
+
 
