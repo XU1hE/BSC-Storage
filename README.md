@@ -1,5 +1,27 @@
 # BSC Storage: Hybrid Battery and Super-Capacitor Storage System for Wind Power Grid Stability
 
+## Table of Contents
+1. [Overview](#overview)  
+2. [Features](#features)  
+   - [Supercapacitor Selection & Modeling](#supercapacitor-selection--modeling)  
+   - [Hybrid System Control](#hybrid-system-control)  
+   - [Simulation & Performance Analysis](#simulation--performance-analysis)  
+   - [Future Improvements](#future-improvements)  
+3. [System Architecture](#system-architecture)  
+4. [Simulation Details](#simulation-details)  
+   - [Platform](#platform)  
+   - [Key Parameters](#key-parameters)  
+   - [Evaluation Criteria](#evaluation-criteria)  
+5. [Installation & Usage](#installation--usage)  
+   - [Prerequisites](#prerequisites)  
+   - [Running the Simulation](#running-the-simulation)  
+6. [Results](#results)  
+7. [Future Work](#future-work)  
+8. [License](#license)  
+9. [Contact](#contact)  
+10. [Topology of Hybrid B-SC Storage System](#topology-of-hybrid-b-sc-storage-system)  
+11. [Simulation & Results](#simulation--results)  
+
 ## Overview
 This project presents the design and modeling of a **hybrid battery-supercapacitor (B-SC) storage system** aimed at stabilizing wind power grid fluctuations. The system leverages the complementary characteristics of batteries and supercapacitors to enhance performance and reliability. It is a course project for [UoG14002] CONTROL
 
@@ -65,9 +87,12 @@ I appreciate your interest in this project and welcome collaboration opportuniti
 ![Screenshot 2025-02-18 101224](https://github.com/user-attachments/assets/0d0e77c4-78da-4f49-b170-25345d1cedb6)
 
 ## Simulation & Results
+
+![Screenshot 2025-02-18 101239](https://github.com/user-attachments/assets/28c88ca2-c0c8-4bcb-8f6b-650c8888a095)
+
 ![Screenshot 2025-02-18 101254](https://github.com/user-attachments/assets/28580bb3-af9d-43d7-b542-a5a3a346ed20)
 
 
-![Screenshot 2025-02-18 101239](https://github.com/user-attachments/assets/28c88ca2-c0c8-4bcb-8f6b-650c8888a095)
+
 
 
